@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3-API", "Odev3-API\Odev3-API.csproj", "{7EE073D0-723B-43F4-9D14-2D0A515CC75D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3-Data", "Odev3-Data\Odev3-Data.csproj", "{A5831119-5C3F-4BDE-AAB7-9DBEF8B5DFD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE073D0-723B-43F4-9D14-2D0A515CC75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE073D0-723B-43F4-9D14-2D0A515CC75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE073D0-723B-43F4-9D14-2D0A515CC75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE073D0-723B-43F4-9D14-2D0A515CC75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5831119-5C3F-4BDE-AAB7-9DBEF8B5DFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5831119-5C3F-4BDE-AAB7-9DBEF8B5DFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5831119-5C3F-4BDE-AAB7-9DBEF8B5DFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5831119-5C3F-4BDE-AAB7-9DBEF8B5DFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A1794A7-0DB2-4B61-AB87-4BFBC6081055}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a5831119-5c3f-4bde-aab7-9dbef8b5dfd2": {
+      "ProjectGuid": "a5831119-5c3f-4bde-aab7-9dbef8b5dfd2",
+      "DisplayName": "Odev3-Data",
+      "ColorIndex": 0
+    },
+    "7ee073d0-723b-43f4-9d14-2d0a515cc75d": {
+      "ProjectGuid": "7ee073d0-723b-43f4-9d14-2d0a515cc75d",
+      "DisplayName": "Odev3-API",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

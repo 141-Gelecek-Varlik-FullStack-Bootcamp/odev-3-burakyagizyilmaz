@@ -1,0 +1,12 @@
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\bin\Debug\net5.0\Odev3-Data.deps.json
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\bin\Debug\net5.0\Odev3-Data.dll
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\bin\Debug\net5.0\ref\Odev3-Data.dll
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\bin\Debug\net5.0\Odev3-Data.pdb
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\obj\Debug\net5.0\Odev3-Data.csproj.AssemblyReference.cache
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\obj\Debug\net5.0\Odev3-Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\obj\Debug\net5.0\Odev3-Data.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\obj\Debug\net5.0\Odev3-Data.AssemblyInfo.cs
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\obj\Debug\net5.0\Odev3-Data.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\obj\Debug\net5.0\Odev3-Data.dll
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\obj\Debug\net5.0\ref\Odev3-Data.dll
+C:\Users\Burak\Documents\Github\GelecekVarlikYonetimi-Odev-W3\odev-3-burakyagizyilmaz\Odev-3-burakyagizyilmaz\Odev3-Data\obj\Debug\net5.0\Odev3-Data.pdb
